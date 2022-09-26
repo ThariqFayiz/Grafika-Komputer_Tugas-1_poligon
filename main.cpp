@@ -1,3 +1,4 @@
+// Muh. Thariq Fayiz Syahputra A.
 // PROGRAM MENGGAMBAR POLIGON
 
 #include <windows.h>
